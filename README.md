@@ -1,1 +1,1 @@
-Exercicios Kotlin divididos em branchess.
+Exercicios Kotlin divididos em "Branches".
